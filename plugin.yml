@@ -1,0 +1,18 @@
+name: PVPL
+version: 1.0.2
+author: Pierronus
+api-version: 1.8
+main: fr.pierronus.pvpl.Main
+commands:
+  points:
+    description: Voir vos points
+    permission: ord.points
+  addpoints:
+    description: Ajouter des points
+    permission: ord.addpoints
+  removepoints:
+    description: Retirer des points
+    permission: ord.removepoints
+  resetpoints:
+    description: Reset les points
+    permission: ord.resetpoints
